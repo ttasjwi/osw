@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("bye!!!! 사요나라\n");
+	printf("bye!!!! 안녕 사요나라!\n");
 	return 0;
 }
 
